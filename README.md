@@ -4,7 +4,7 @@ C++ program implemented for a High-Performance Computing project at Imperial Col
 
 Parallel numerical code for simulating heat transfer in a plate by solving the heat conduction equation numerically using the finite element method.
 
-3 cases are implemented (see "cases_table" and "plate_drawing" files for more details).
+3 cases are implemented (see "initial_conditions" files for more details).
 
 # Research Project (MATLAB)
 
