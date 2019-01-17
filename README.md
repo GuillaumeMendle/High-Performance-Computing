@@ -6,7 +6,7 @@ Parallel numerical code for simulating heat transfer in a plate by solving the h
 
 3 cases are implemented (see "initial_conditions" file for more details).
 
-"case_3_results" contains the numerical simulations of case 3 in case of a parallel and non-parallel C++ code as well as the solution implemented in Python.
+Folder "case_3_results" contains the numerical simulations of case 3 in case of a parallel and non-parallel C++ code as well as the solution implemented in Python.
 
 
 # Research Project (MATLAB)
@@ -18,5 +18,5 @@ Matlab programs implemented for Dam-Break flow computation (MSc research project
 "dam_break_shapes" simulates the top view of a gravitational spreading (possibility to simulate other shapes such as cylinder or cross,
 by uncommenting the program). 
 
-You will also find videos of different simulations related to the above-mentioned programs.
+You will also find videos of different simulations related to the above-mentioned programs (folder "Videos")
 
